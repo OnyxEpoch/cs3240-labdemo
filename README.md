@@ -1,2 +1,2 @@
 # cs3240-labdemo
-blah blahblah
+blah blah
